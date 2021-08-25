@@ -36,8 +36,8 @@ In this project we deal with the design and control of a drone that can transpor
  
  - Cloning the github repository
     > cd ~/catkin_ws/src/
-    > git clone
-
+    > git clone https://github.com/Electronics-Creed/Transportation-Drone.git
+ 
 ---
 
 ## Technologies
