@@ -85,4 +85,5 @@ Simulink Support Package for Arduino Hardware User’s Guide, Mathworks
 
 - H P Jeevan https://www.linkedin.com/in/h-p-jeevan-08607a1a8
 - G Rohith https://www.linkedin.com/in/g-rohith-17921a1b8
-- Emyl Varghese George https://www.linkedin.com/in/emyl-varghese-george-4aa53220b
+- Emyl Varghese George https://www.linkedin.com/in/emyl-varghese-george-4aa53220b  
+- K Sai Kumar https://www.linkedin.com/in/k-sai-kumar-2b6098180/  
