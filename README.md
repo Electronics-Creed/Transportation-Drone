@@ -18,21 +18,21 @@ In this project we deal with the design and control of a drone that can transpor
 ## Installation
 
 - Use these commands to install ROS Melodic on Ubuntu 18.04: 
-    > sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
-    > sudo apt install curl
-    > curl -s https://raw.githubusercontent.com/ros/rosdistro/master/ros.asc | sudo apt-key add -
-    > sudo apt update
+    > sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'  
+    > sudo apt install curl  
+    > curl -s https://raw.githubusercontent.com/ros/rosdistro/master/ros.asc | sudo apt-key add -  
+    > sudo apt update  
     > sudo apt install ros-melodic-desktop-full
 
 - Install git
     > apt-get install git
 
 - Creating catkin workspace: 
-    > source /opt/ros/melodic/setup.bash
-    > mkdir -p ~/catkin_ws/src
-    > cd ~/catkin_ws/
-    > catkin build
-    > source devel/setup.bash
+    > source /opt/ros/melodic/setup.bash  
+    > mkdir -p ~/catkin_ws/src  
+    > cd ~/catkin_ws/  
+    > catkin build  
+    > source devel/setup.bash  
  
  - Cloning the github repository
     > cd ~/catkin_ws/src/
